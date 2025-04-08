@@ -1,0 +1,5 @@
+waseem 90
+ali 23
+asad 54
+hamza 43
+javed 34
